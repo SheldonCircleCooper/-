@@ -31,3 +31,4 @@ Circle于北京时间2025年5月27日凌晨
 |2025年04月27日00：00，辽宁|[初中难度几何12/100题](https://mp.weixin.qq.com/s/ea1exfMGD4Br8qoOoerpwQ)|
 |2025年05月11日00：01，美国|[初中难度几何13/100题](https://mp.weixin.qq.com/s/STeFTutarpyFwIpoCl41Yw)|
 |2025年05月18日00：00，美国|[初中难度几何14/100题](https://mp.weixin.qq.com/s/VWe_DgDt4QLDN7XtapuoGA)|
+|2025年06月01日00：00，美国|[初中难度几何15/100题(https://mp.weixin.qq.com/s/gWpUmFvFEOEoU6UERXCKRw)]|
